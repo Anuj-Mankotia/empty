@@ -10,7 +10,6 @@
 namespace CompleteLogin.Models
 {
     using System;
-    using System.web;
     using System.Collections.Generic;
     
     public partial class tblogin
